@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aevion Development
+<img src="./logo.png" alt="Aevion Development" width="260">
 
 **Minecraft management plugins made convenient.**
 
@@ -27,8 +27,8 @@ Aevion Development is a Minecraft plugin development team created to make runnin
 
 ## Contact
 
-- 💬 Discord: [your invite link]
-- 🌐 Website: [your site]
+- 💬 Discord: Coming Soon
+- 🌐 Website: Coming Soon
 
 ---
 
