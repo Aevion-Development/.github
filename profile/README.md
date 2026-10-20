@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="./aevion-logo.png" alt="Aevion Development" width="260">
+<img src="./aevion-logo.png" alt="Aevion Development" width="100">
 
 **Minecraft management plugins made convenient.**
 
